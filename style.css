@@ -115,6 +115,7 @@ a:hover {
 @media (max-width: 768px) {
     body {
         padding: 15px; /* Increased padding for touch devices */
+        padding-left: 10px;
     }
     h1 {
         font-size: 1.75em; /* Smaller font size for h1 on smaller screens */
